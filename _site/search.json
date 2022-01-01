@@ -1,0 +1,66 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "author": [],
+      "contents": "\nMe\nI am a conservation biologist and applied statistician, with a particular interest in West Africa and its birds, citizen science and statistical modeling of wild animal populations to guide conservation action.\nI am currently a resident of Freetown, where I am a visiting Lecturer in Applied Statistics at the University of Sierra Leone, teaching postgraduate statistics with the help of the R statistical computing language. I am also engaged in a range of wildlife conservation and statistics projects here. More detail is in my cv\nThe website\nThis is my personal website. It is a mixed bag of:\nlinks to my statistics teaching and blog articles about statistics, targeted at people uncomfortable with calculus and matrix algebra, but happy to think and to code;\nresources to help naturalists, particularly birders, enjoy discovering Sierra Leone’s fauna; and\nmy 2021 birding blog in which, hostage to fortune, I hope to see most (is all possible?) of Sierra Leone’s regularly occurring bird species and provide some information on where to find them and what their presence means, both for global bird conservation and for the people who live with them.\nIf the statistics content aims to be serious about inference, the birding content is simply anecdotes about my explorations. The two overlap occasionally.\n\n\n",
+      "last_modified": "2022-01-01T21:34:46+00:00"
+    },
+    {
+      "path": "birding.html",
+      "title": "birding",
+      "description": "Some additional details about the blog\n",
+      "author": [],
+      "contents": "\n\nContents\nField and audio guides\nOkNP\n\n\nField and audio guides\nBorrow and Demey’s Birds of Western Africa is the standard guide and the same authors’ Birds of Ghana, a reduced version of the regional text, covers all of Sierra Leone’s birds other than a few of the rarer forest species. For European migrant species Collins Bird Guide gives a lot more detail, though not comprehensive on the winter plumages not seen in Europe. This book now has an excellent Android and Apple app with all the book’s text and images plus short audio calls. Now that Chappuis’ 11 CD bird calls of Central and West Africa is an out of print collectors’ item, the free to download library of bird call at xeno-canto covers most of Sierra Leone’s species, and vocalisations of a few missing ones such as Sierra Leone Prinia can be found the Macauley Library. There is no quick way to download all of Sierra Leone’s bird species’ calls from xeno-canto.\nOkNP\nsdcsav\n\n\n",
+      "last_modified": "2022-01-01T21:34:46+00:00"
+    },
+    {
+      "path": "flora.html",
+      "title": "flora",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-01-01T21:34:46+00:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Birding around Dakar",
+      "author": [],
+      "contents": "\n      \n        \n      \n    \n  ",
+      "last_modified": "2022-01-01T21:34:46+00:00"
+    },
+    {
+      "path": "news.html",
+      "title": "News",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-01-01T21:34:47+00:00"
+    },
+    {
+      "path": "other_fauna.html",
+      "title": "Other fauna",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-01-01T21:34:47+00:00"
+    },
+    {
+      "path": "resources.html",
+      "title": "Resources",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-01-01T21:34:47+00:00"
+    },
+    {
+      "path": "statistics.html",
+      "title": "posts",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-01-01T21:34:47+00:00"
+    }
+  ],
+  "collections": ["posts/posts.json", "statistics/statistics.json"]
+}
