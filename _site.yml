@@ -1,0 +1,36 @@
+name: "dakarois"
+title: "dakarois"
+theme: theme.css
+description: |
+  Birding and biostatistics around Dakar
+navbar:
+  right:
+    
+    - text: "About"
+      href: about.html
+    - text: "Home" 
+      href: index.html
+    - text: "Resources"
+      menu:
+      - text: Birding
+        href: birding.html
+      - text: Other fauna
+        href: other_fauna.html
+      - text: Flora and vegetation
+        href: flora.html
+    - text: "News"
+      href: news.html
+    - text: "Statistics posts"
+      href: statistics.html
+    - icon: fa fa-rss
+      href: index.xml
+collections:
+  posts: 
+    categories: true
+  statistics:
+    categories: true
+output: 
+  distill::distill_article:
+    css: "custom.css"
+    highlight: tango
+    highlight_downlit: false

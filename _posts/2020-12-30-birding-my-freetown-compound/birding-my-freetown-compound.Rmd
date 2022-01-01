@@ -1,0 +1,31 @@
+---
+title: "Birding my Freetown compound"
+description: |
+  Coffee break observations from a Lumley balcony
+author:
+  - name: Paul
+    url: {}
+date: 12-30-2020
+output:
+  distill::distill_article:
+    css: ../../custom.css
+    self_contained: false
+preview: "../../images/my_house.png"
+categories:
+  - birding
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](../../images/my_house.png)
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+![](../../images/panorama.jpg)
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+

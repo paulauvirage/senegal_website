@@ -1,0 +1,27 @@
+---
+title: "About this blog"
+description: |
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Me
+
+I am a conservation biologist and applied statistician, with a particular interest in West Africa and its birds, citizen science and statistical modeling of wild animal populations to guide conservation action. 
+
+I am currently a resident of Freetown, where I am a visiting Lecturer in Applied Statistics at the University of Sierra Leone, teaching postgraduate statistics with the help of the R statistical computing language. I am also engaged in a range of wildlife conservation and statistics projects here. More detail is in my [cv]()     
+
+
+## The website
+
+This is my personal website. It is a mixed bag of:
+
+* links to my statistics teaching and blog articles about statistics, targeted at people uncomfortable with calculus and matrix algebra, but happy to think and to code;
+* resources to help naturalists, particularly birders, enjoy discovering Sierra Leone's fauna; and
+* my 2021 birding blog in which, hostage to fortune, I hope to see most (is __all__ possible?) of Sierra Leone's regularly occurring bird species and provide some information on where to find them and what their presence means, both for global bird conservation and for the people who live with them.  
+
+
+If the statistics content aims to be serious about inference, the birding content is simply anecdotes about my explorations. The two overlap occasionally.
+

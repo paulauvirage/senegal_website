@@ -1,0 +1,22 @@
+---
+title: "birding"
+description: |
+  Some additional details about the blog
+output:
+  distill::distill_article:
+    css: ../../custom.css
+    self_contained: false
+    toc: true
+---
+
+## Field and audio guides
+
+Borrow and Demey's [Birds of Western Africa](https://www.bloomsbury.com/uk/birds-of-western-africa-9781472905680/) is the standard guide and the same authors' [Birds of Ghana](https://www.bloomsbury.com/uk/field-guide-to-the-birds-of-ghana-9781408122792/), a reduced version of the regional text, covers all of Sierra Leone's birds other than a few of the rarer forest species. For European migrant species [Collins Bird Guide](https://www.harpercollins.co.uk/9780007268146/collins-bird-guide/) gives a lot more detail, though not comprehensive on the winter plumages not seen in Europe. This book now has an excellent [Android and Apple app](https://www.natureguides.com/projects/) with all the book's text and images plus short audio calls. Now that Chappuis' 11 CD [bird calls of Central and West Africa](https://www.africanbirdclub.org/bookreviews/oiseaux-dafrique-african-bird-sounds-2-west-and-central-africa) is an out of print collectors' item, the free to download library of bird call at [xeno-canto](https://www.xeno-canto.org/) covers most of Sierra Leone's species, and vocalisations of a few missing ones such as Sierra Leone Prinia can be found the [Macauley Library](https://search.macaulaylibrary.org/catalog?taxonCode=silpri2\u0026q=Sierra%20Leone%20Prinia%20-%20Schistolais%20leontica). There is no quick way to download all of Sierra Leone's bird species' calls from xeno-canto.
+
+### OkNP
+
+sdcsav
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```

@@ -1,0 +1,31 @@
+---
+title: "Birding Dakar: an introduction"
+description: |
+  The key habitats and birds
+date: 12-30-2020
+
+output:
+  distill::distill_article:
+    css: ../../custom.css
+    self_contained: false
+    includes:
+        in_header: "../../images/banner.html"
+preview: "../../images/freetown.png"
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](../../images/freetown.png)
+
+```{r, include=TRUE}
+
+a <- rnorm(100, 5,2)
+plot(a)
+
+
+```
+
+

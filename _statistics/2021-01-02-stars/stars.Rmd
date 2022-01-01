@@ -1,0 +1,29 @@
+---
+title: "stars"
+description: |
+  A short description of the post.
+author:
+  - name: Paul
+    url: {}
+date: 01-02-2021
+output:
+  distill::distill_article:
+    css: ../../custom.css
+    self_contained: false
+preview: "../../images/my_house.png"
+categories:
+  - spatial
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](../../images/my_house.png)
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+
